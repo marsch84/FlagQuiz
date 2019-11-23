@@ -1,0 +1,192 @@
+Afghanistan 	Islamic State of Afghanistan 	AF
+Albania 	Republic of Albania 	AL
+Algeria 	People's Democratic Republic of Algeria 	AG
+Andorra 	Principality of Andorra 	AN
+Angola 	Republic of Angola 	AO
+Antigua and Barbuda 	None 	AC
+Argentina 	Argentine Republic 	AR
+Armenia 	Republic of Armenia 	AM
+Australia 	Commonwealth of Australia 	AS
+Austria 	Republic of Austria 	AU
+Azerbaijan 	Republic of Azerbaijan 	AJ
+Bahamas, The 	Commonwealth of the Bahamas 	BF
+Bahrain 	State of Bahrain 	BA
+Bangladesh 	People's Republic of Bangladesh 	BG
+Barbados 	None 	BB
+Belarus 	Republic of Belarus 	BO
+Belgium 	Kingdom of Belgium 	BE
+Belize 	None 	BH
+Benin 	Republic of Benin 	BN
+Bhutan 	Kingdom of Bhutan 	BT
+Bolivia 	Republic of Bolivia 	BL
+Bosnia and Herzegovina 	None 	BK
+Botswana 	Republic of Botswana 	BC
+Brazil 	Federative Republic of Brazil 	BR
+Brunei 	Negara Brunei Darussalam 	BX
+Bulgaria 	None 	BU
+Burkina Faso 	None 	UV
+Burma 	Union of Burma 	BM
+Burundi 	Republic of Burundi 	BY
+Cambodia 	Kingdom of Cambodia 	CB
+Cameroon 	Republic of Cameroon 	CM
+Canada 	None 	CA
+Cape Verde 	Republic of Cape Verde 	CV
+Central African Republic 	None 	CT
+Chad 	Republic of Chad 	CD
+Chile 	Republic of Chile 	CI
+China 	People's Republic of China 	CH
+Colombia 	Republic of Colombia 	CO
+Comoros 	Federal Islamic Republic of the Comoros 	CN
+Congo (Brazzaville) 	Republic of the Congo 	CF
+Congo (Kinshasa) 	Democratic Republic of the Congo 	CG
+Costa Rica 	Republic of Costa Rica 	CS
+Cote D'Ivoire 	Republic of Cote D'Ivoire 	IV
+Croatia 	Republic of Croatia 	HR
+Cuba 	Republic of Cuba 	CU
+Cyprus 	Republic of Cyprus 	CY
+Czech Republic 	None 	EZ
+Denmark 	Kingdom of Denmark 	DA
+Djibouti 	Republic of Djibouti 	DJ
+Dominica 	Commonwealth of Dominica 	DO
+Dominican Republic 	None 	DR
+Ecuador 	Republic of Ecuador 	EC
+Egypt 	Arab Republic of Egypt 	EG
+El Salvador 	Republic of El Salvador 	ES
+Equatorial Guinea 	Republic of Equatorial Guinea 	EK
+Eritrea 	State of Eritrea 	ER
+Estonia 	Republic of Estonia 	EN
+Ethiopia 	Federal Democratic Republic of Ethiopia 	ET
+Fiji 	Republic of the Fiji Islands 	FJ
+Finland 	Republic of Finland 	FI
+France 	French Republic 	FR
+Gabon 	Gabonese Republic 	GB
+Gambia, The 	Republic of the Gambia 	GA
+Georgia 	None 	GG
+Germany 	Federal Republic of Germany 	GM
+Ghana 	Republic of Ghana 	GH
+Greece 	Hellenic Republic 	GR
+Grenada 	None 	GJ
+Guatemala 	Republic of Guatemala 	GT
+Guinea 	Republic of Guinea 	GV
+Guinea-Bissau 	Republic of Guinea-Bissau 	PU
+Guyana 	Co-operative Republic of Guyana 	GY
+Haiti 	Republic of Haiti 	HA
+Honduras 	Republic of Honduras 	HO
+Hungary 	Republic of Hungary 	HU
+Iceland 	Republic of Iceland 	IC
+India 	Republic of India 	IN
+Indonesia 	Republic of Indonesia 	ID
+Iran 	Islamic Republic of Iran 	IR
+Iraq 	Republic of Iraq 	IZ
+Ireland 	None 	EI
+Israel 	State of Israel 	IS
+Italy 	Italian Republic 	IT
+Jamaica 	None 	JM
+Japan 	None 	JA
+Jordan 	Hashemite Kingdom of Jordan 	JO
+Kazakhstan 	Republic of Kazakhstan 	KZ
+Kenya 	Republic of Kenya 	KE
+Kiribati 	Republic of Kiribati 	KR
+Korea, North 	Democratic People's Republic of Korea 	KN
+Korea, South 	Republic of Korea 	KS
+Kuwait 	State of Kuwait 	KU
+Kyrgyzstan 	Kyrgyz Republic 	KG
+Laos 	Lao People's Democratic Republic 	LA
+Latvia 	Republic of Latvia 	LG
+Lebanon 	Lebanese Republic 	LE
+Lesotho 	Republic of Lesotho 	LT
+Liberia 	Republic of Liberia 	LI
+Libya 	Great Socialist People's Libyan Arab Jamahiriya 	LY
+Liechtenstein 	Principality of Liechtenstein 	LS
+Lithuania 	Republic of Lithuania 	LH
+Luxembourg 	Grand Duchy of Luxembourg 	LU
+Macedonia 	Republic of Macedonia 	MK
+Madagascar 	Republic of Madagascar 	MA
+Malawi 	Republic of Malawi 	MI
+Malaysia 	None 	MY
+Maldives 	Republic of Maldives 	MV
+Mali 	Republic of Mali 	ML
+Malta 	Republic of Malta 	MT
+Marshall Islands 	Republic of the Marshall Islands 	RM
+Mauritania 	Islamic Republic of Mauritania 	MR
+Mauritius 	Republic of Mauritius 	MP
+Mexico 	United Mexican States 	MX
+Federated States of Micronesia 	None 	FM
+Moldova 	Republic of Moldova 	MD
+Monaco 	Principality of Monaco 	MN
+Mongolia 	None 	MG
+Morocco 	Kingdom of Morocco 	MO
+Mozambique 	Republic of Mozambique 	MZ
+Namibia 	Republic of Namibia 	WA
+Nauru 	Republic of Nauru 	NR
+Nepal 	Kingdom of Nepal 	NP
+Netherlands 	Kingdom of the Netherlands 	NL
+New Zealand 	None 	NZ
+Nicaragua 	Republic of Nicaragua 	NU
+Niger 	Republic of Niger 	NG
+Nigeria 	Federal Republic of Nigeria 	NI
+Norway 	Kingdom of Norway 	NO
+Oman 	Sultanate of Oman 	MU
+Pakistan 	Islamic Republic of Pakistan 	PK
+Palau 	Republic of Palau 	PS
+Panama 	Republic of Panama 	PM
+Papua New Guinea 	Independent State of Papua New Guinea 	PP
+Paraguay 	Republic of Paraguay 	PA
+Peru 	Republic of Peru 	PE
+Philippines 	Republic of the Philippines 	RP
+Poland 	Republic of Poland 	PL
+Portugal 	Portuguese Republic 	PO
+Qatar 	State of Qatar 	QA
+Romania 	None 	RO
+Russia 	Russian Federation 	RS
+Rwanda 	Rwandese Republic 	RW
+Saint Kitts and Nevis 	Federation of Saint Kitts and Nevis 	SC
+Saint Lucia 	None 	ST
+Saint Vincent and the Grenadines 	None 	VC
+Samoa 	Independent State of Samoa 	WS
+San Marino 	Republic of San Marino 	SM
+Sao Tome and Principe 	Democratic Republic of Sao Tome and Principe 	TP
+Saudi Arabia 	Kingdom of Saudi Arabia 	SA
+Senegal 	Republic of Senegal 	SG
+Seychelles 	Republic of Seychelles 	SE
+Sierra Leone 	Republic of Sierra Leone 	SL
+Singapore 	Republic of Singapore 	SN
+Slovakia 	Slovak Republic 	LO
+Slovenia 	Republic of Slovenia 	SI
+Solomon Islands 	None 	BP
+Somalia 	None 	SO
+South Africa 	Republic of South Africa 	SF
+Spain 	Kingdom of Spain 	SP
+Sri Lanka 	Democratic Socialist Republic of Sri Lanka 	CE
+Sudan 	Republic of the Sudan 	SU
+Suriname 	Republic of Suriname 	NS
+Swaziland 	Kingdom of Swaziland 	WZ
+Sweden 	Kingdom of Sweden 	SW
+Switzerland 	Swiss Confederation 	SZ
+Syria 	Syrian Arab Republic 	SY
+Tajikistan 	Republic of Tajikistan 	TI
+Tanzania 	United Republic of Tanzania 	TZ
+Thailand 	Kingdom of Thailand 	TH
+Togo 	Togolese Republic 	TO
+Tonga 	Kingdom of Tonga 	TN
+Trinidad and Tobago 	Republic of Trinidad and Tobago 	TD
+Tunisia 	Republic of Tunisia 	TS
+Turkey 	Republic of Turkey 	TU
+Turkmenistan 	None 	TX
+Tuvalu 	None 	TV
+Uganda 	None 	UG
+Ukraine 	None 	UP
+United Arab Emirates 	None 	AE
+United Kingdom 	United Kingdom of Great Britain and Northern Ireland 	UK
+United States 	United States of America 	US
+Uruguay 	Oriental Republic of Uruguay 	UY
+Uzbekistan 	Republic of Uzbekistan 	UZ
+Vanuatu 	Republic of Vanuatu 	NH
+Vatican City 	State of the Vatican City 	VT
+Venezuela 	Bolivarian Republic of Venezuela 	VE
+Vietnam 	Socialist Republic of Vietnam 	VM
+Yemen 	Republic of Yemen 	YM
+Serbia and Montenegro 	None 	YI
+Zambia 	Republic of Zambia 	ZA
+Zimbabwe 	Republic of Zimbabwe 	ZI
+Taiwan 	None 	TW

@@ -1,0 +1,21 @@
+Flag Quiz
+---------
+This game is a small flag guessing quiz using the Qt library. It includes two game modes, which are called national flag quiz and country name quiz. In the national flag quiz a name of a county is given and the player has to choose the country's national flag out of four possible answers. In the second quiz mode the country name corresponding to a presented flag has to be guessed. Each round of the game is 60 seconds long. Right answers add points to the players score, whereas wrong answers result in penalty points.
+
+Author: Martin Scherer
+Date: 23.11.2019
+
+
+Installation
+------------
+$ qmake
+$ make
+$ bin/FlagQuiz
+
+
+Copyright
+---------
+All images included in this package are public domain.
+
+The flags are from The World Factbook of the Central Intelligance Agency.
+https://www.cia.gov/library/publications/the-world-factbook/docs/contributor_copyright.html

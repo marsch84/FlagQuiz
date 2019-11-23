@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<FLAGS>
+	<FLAG CODE="af" SHORT="Afghanistan" LONG="Islamic State of Afghanistan"/>
+	<FLAG CODE="al" SHORT="Albania" LONG="Republic of Albania"/>
+	<FLAG CODE="ag" SHORT="Algeria" LONG="People's Democratic Republic of Algeria"/>
+	<FLAG CODE="an" SHORT="Andorra" LONG="Principality of Andorra"/>
+	<FLAG CODE="ao" SHORT="Angola" LONG="Republic of Angola"/>
+	<FLAG CODE="ac" SHORT="Antigua and Barbuda" LONG="None"/>
+	<FLAG CODE="ar" SHORT="Argentina" LONG="Argentine Republic"/>
+	<FLAG CODE="am" SHORT="Armenia" LONG="Republic of Armenia"/>
+	<FLAG CODE="as" SHORT="Australia" LONG="Commonwealth of Australia"/>
+	<FLAG CODE="au" SHORT="Austria" LONG="Republic of Austria"/>
+	<FLAG CODE="aj" SHORT="Azerbaijan" LONG="Republic of Azerbaijan"/>
+	<FLAG CODE="bf" SHORT="Bahamas, The" LONG="Commonwealth of the Bahamas"/>
+	<FLAG CODE="ba" SHORT="Bahrain" LONG="State of Bahrain"/>
+	<FLAG CODE="bg" SHORT="Bangladesh" LONG="People's Republic of Bangladesh"/>
+	<FLAG CODE="bb" SHORT="Barbados" LONG="None"/>
+	<FLAG CODE="bo" SHORT="Belarus" LONG="Republic of Belarus"/>
+	<FLAG CODE="be" SHORT="Belgium" LONG="Kingdom of Belgium"/>
+	<FLAG CODE="bh" SHORT="Belize" LONG="None"/>
+	<FLAG CODE="bn" SHORT="Benin" LONG="Republic of Benin"/>
+	<FLAG CODE="bt" SHORT="Bhutan" LONG="Kingdom of Bhutan"/>
+	<FLAG CODE="bl" SHORT="Bolivia" LONG="Republic of Bolivia"/>
+	<FLAG CODE="bk" SHORT="Bosnia and Herzegovina" LONG="None"/>
+	<FLAG CODE="bc" SHORT="Botswana" LONG="Republic of Botswana"/>
+	<FLAG CODE="br" SHORT="Brazil" LONG="Federative Republic of Brazil"/>
+	<FLAG CODE="bx" SHORT="Brunei" LONG="Negara Brunei Darussalam"/>
+	<FLAG CODE="bu" SHORT="Bulgaria" LONG="None"/>
+	<FLAG CODE="uv" SHORT="Burkina Faso" LONG="None"/>
+	<FLAG CODE="bm" SHORT="Burma" LONG="Union of Burma"/>
+	<FLAG CODE="by" SHORT="Burundi" LONG="Republic of Burundi"/>
+	<FLAG CODE="cb" SHORT="Cambodia" LONG="Kingdom of Cambodia"/>
+	<FLAG CODE="cm" SHORT="Cameroon" LONG="Republic of Cameroon"/>
+	<FLAG CODE="ca" SHORT="Canada" LONG="None"/>
+	<FLAG CODE="cv" SHORT="Cape Verde" LONG="Republic of Cape Verde"/>
+	<FLAG CODE="ct" SHORT="Central African Republic" LONG="None"/>
+	<FLAG CODE="cd" SHORT="Chad" LONG="Republic of Chad"/>
+	<FLAG CODE="ci" SHORT="Chile" LONG="Republic of Chile"/>
+	<FLAG CODE="ch" SHORT="China" LONG="People's Republic of China"/>
+	<FLAG CODE="co" SHORT="Colombia" LONG="Republic of Colombia"/>
+	<FLAG CODE="cn" SHORT="Comoros" LONG="Federal Islamic Republic of the Comoros"/>
+	<FLAG CODE="cf" SHORT="Congo (Brazzaville)" LONG="Republic of the Congo"/>
+	<FLAG CODE="cg" SHORT="Congo (Kinshasa)" LONG="Democratic Republic of the Congo"/>
+	<FLAG CODE="cs" SHORT="Costa Rica" LONG="Republic of Costa Rica"/>
+	<FLAG CODE="iv" SHORT="Cote D'Ivoire" LONG="Republic of Cote D'Ivoire"/>
+	<FLAG CODE="hr" SHORT="Croatia" LONG="Republic of Croatia"/>
+	<FLAG CODE="cu" SHORT="Cuba" LONG="Republic of Cuba"/>
+	<FLAG CODE="cy" SHORT="Cyprus" LONG="Republic of Cyprus"/>
+	<FLAG CODE="ez" SHORT="Czech Republic" LONG="None"/>
+	<FLAG CODE="da" SHORT="Denmark" LONG="Kingdom of Denmark"/>
+	<FLAG CODE="dj" SHORT="Djibouti" LONG="Republic of Djibouti"/>
+	<FLAG CODE="do" SHORT="Dominica" LONG="Commonwealth of Dominica"/>
+	<FLAG CODE="dr" SHORT="Dominican Republic" LONG="None"/>
+	<FLAG CODE="ec" SHORT="Ecuador" LONG="Republic of Ecuador"/>
+	<FLAG CODE="eg" SHORT="Egypt" LONG="Arab Republic of Egypt"/>
+	<FLAG CODE="es" SHORT="El Salvador" LONG="Republic of El Salvador"/>
+	<FLAG CODE="ek" SHORT="Equatorial Guinea" LONG="Republic of Equatorial Guinea"/>
+	<FLAG CODE="er" SHORT="Eritrea" LONG="State of Eritrea"/>
+	<FLAG CODE="en" SHORT="Estonia" LONG="Republic of Estonia"/>
+	<FLAG CODE="et" SHORT="Ethiopia" LONG="Federal Democratic Republic of Ethiopia"/>
+	<FLAG CODE="fj" SHORT="Fiji" LONG="Republic of the Fiji Islands"/>
+	<FLAG CODE="fi" SHORT="Finland" LONG="Republic of Finland"/>
+	<FLAG CODE="fr" SHORT="France" LONG="French Republic"/>
+	<FLAG CODE="gb" SHORT="Gabon" LONG="Gabonese Republic"/>
+	<FLAG CODE="ga" SHORT="Gambia, The" LONG="Republic of the Gambia"/>
+	<FLAG CODE="gg" SHORT="Georgia" LONG="None"/>
+	<FLAG CODE="gm" SHORT="Germany" LONG="Federal Republic of Germany"/>
+	<FLAG CODE="gh" SHORT="Ghana" LONG="Republic of Ghana"/>
+	<FLAG CODE="gr" SHORT="Greece" LONG="Hellenic Republic"/>
+	<FLAG CODE="gj" SHORT="Grenada" LONG="None"/>
+	<FLAG CODE="gt" SHORT="Guatemala" LONG="Republic of Guatemala"/>
+	<FLAG CODE="gv" SHORT="Guinea" LONG="Republic of Guinea"/>
+	<FLAG CODE="pu" SHORT="Guinea-Bissau" LONG="Republic of Guinea-Bissau"/>
+	<FLAG CODE="gy" SHORT="Guyana" LONG="Co-operative Republic of Guyana"/>
+	<FLAG CODE="ha" SHORT="Haiti" LONG="Republic of Haiti"/>
+	<FLAG CODE="ho" SHORT="Honduras" LONG="Republic of Honduras"/>
+	<FLAG CODE="hu" SHORT="Hungary" LONG="Republic of Hungary"/>
+	<FLAG CODE="ic" SHORT="Iceland" LONG="Republic of Iceland"/>
+	<FLAG CODE="in" SHORT="India" LONG="Republic of India"/>
+	<FLAG CODE="id" SHORT="Indonesia" LONG="Republic of Indonesia"/>
+	<FLAG CODE="ir" SHORT="Iran" LONG="Islamic Republic of Iran"/>
+	<FLAG CODE="iz" SHORT="Iraq" LONG="Republic of Iraq"/>
+	<FLAG CODE="ei" SHORT="Ireland" LONG="None"/>
+	<FLAG CODE="is" SHORT="Israel" LONG="State of Israel"/>
+	<FLAG CODE="it" SHORT="Italy" LONG="Italian Republic"/>
+	<FLAG CODE="jm" SHORT="Jamaica" LONG="None"/>
+	<FLAG CODE="ja" SHORT="Japan" LONG="None"/>
+	<FLAG CODE="jo" SHORT="Jordan" LONG="Hashemite Kingdom of Jordan"/>
+	<FLAG CODE="kz" SHORT="Kazakhstan" LONG="Republic of Kazakhstan"/>
+	<FLAG CODE="ke" SHORT="Kenya" LONG="Republic of Kenya"/>
+	<FLAG CODE="kr" SHORT="Kiribati" LONG="Republic of Kiribati"/>
+	<FLAG CODE="kn" SHORT="Korea, North" LONG="Democratic People's Republic of Korea"/>
+	<FLAG CODE="ks" SHORT="Korea, South" LONG="Republic of Korea"/>
+	<FLAG CODE="ku" SHORT="Kuwait" LONG="State of Kuwait"/>
+	<FLAG CODE="kg" SHORT="Kyrgyzstan" LONG="Kyrgyz Republic"/>
+	<FLAG CODE="la" SHORT="Laos" LONG="Lao People's Democratic Republic"/>
+	<FLAG CODE="lg" SHORT="Latvia" LONG="Republic of Latvia"/>
+	<FLAG CODE="le" SHORT="Lebanon" LONG="Lebanese Republic"/>
+	<FLAG CODE="lt" SHORT="Lesotho" LONG="Republic of Lesotho"/>
+	<FLAG CODE="li" SHORT="Liberia" LONG="Republic of Liberia"/>
+	<FLAG CODE="ly" SHORT="Libya" LONG="Great Socialist People's Libyan Arab Jamahiriya"/>
+	<FLAG CODE="ls" SHORT="Liechtenstein" LONG="Principality of Liechtenstein"/>
+	<FLAG CODE="lh" SHORT="Lithuania" LONG="Republic of Lithuania"/>
+	<FLAG CODE="lu" SHORT="Luxembourg" LONG="Grand Duchy of Luxembourg"/>
+	<FLAG CODE="mk" SHORT="Macedonia" LONG="Republic of Macedonia"/>
+	<FLAG CODE="ma" SHORT="Madagascar" LONG="Republic of Madagascar"/>
+	<FLAG CODE="mi" SHORT="Malawi" LONG="Republic of Malawi"/>
+	<FLAG CODE="my" SHORT="Malaysia" LONG="None"/>
+	<FLAG CODE="mv" SHORT="Maldives" LONG="Republic of Maldives"/>
+	<FLAG CODE="ml" SHORT="Mali" LONG="Republic of Mali"/>
+	<FLAG CODE="mt" SHORT="Malta" LONG="Republic of Malta"/>
+	<FLAG CODE="rm" SHORT="Marshall Islands" LONG="Republic of the Marshall Islands"/>
+	<FLAG CODE="mr" SHORT="Mauritania" LONG="Islamic Republic of Mauritania"/>
+	<FLAG CODE="mp" SHORT="Mauritius" LONG="Republic of Mauritius"/>
+	<FLAG CODE="mx" SHORT="Mexico" LONG="United Mexican States"/>
+	<FLAG CODE="fm" SHORT="Federated States of Micronesia" LONG="None"/>
+	<FLAG CODE="md" SHORT="Moldova" LONG="Republic of Moldova"/>
+	<FLAG CODE="mn" SHORT="Monaco" LONG="Principality of Monaco"/>
+	<FLAG CODE="mg" SHORT="Mongolia" LONG="None"/>
+	<FLAG CODE="mo" SHORT="Morocco" LONG="Kingdom of Morocco"/>
+	<FLAG CODE="mz" SHORT="Mozambique" LONG="Republic of Mozambique"/>
+	<FLAG CODE="wa" SHORT="Namibia" LONG="Republic of Namibia"/>
+	<FLAG CODE="nr" SHORT="Nauru" LONG="Republic of Nauru"/>
+	<FLAG CODE="np" SHORT="Nepal" LONG="Kingdom of Nepal"/>
+	<FLAG CODE="nl" SHORT="Netherlands" LONG="Kingdom of the Netherlands"/>
+	<FLAG CODE="nz" SHORT="New Zealand" LONG="None"/>
+	<FLAG CODE="nu" SHORT="Nicaragua" LONG="Republic of Nicaragua"/>
+	<FLAG CODE="ng" SHORT="Niger" LONG="Republic of Niger"/>
+	<FLAG CODE="ni" SHORT="Nigeria" LONG="Federal Republic of Nigeria"/>
+	<FLAG CODE="no" SHORT="Norway" LONG="Kingdom of Norway"/>
+	<FLAG CODE="mu" SHORT="Oman" LONG="Sultanate of Oman"/>
+	<FLAG CODE="pk" SHORT="Pakistan" LONG="Islamic Republic of Pakistan"/>
+	<FLAG CODE="ps" SHORT="Palau" LONG="Republic of Palau"/>
+	<FLAG CODE="pm" SHORT="Panama" LONG="Republic of Panama"/>
+	<FLAG CODE="pp" SHORT="Papua New Guinea" LONG="Independent State of Papua New Guinea"/>
+	<FLAG CODE="pa" SHORT="Paraguay" LONG="Republic of Paraguay"/>
+	<FLAG CODE="pe" SHORT="Peru" LONG="Republic of Peru"/>
+	<FLAG CODE="rp" SHORT="Philippines" LONG="Republic of the Philippines"/>
+	<FLAG CODE="pl" SHORT="Poland" LONG="Republic of Poland"/>
+	<FLAG CODE="po" SHORT="Portugal" LONG="Portuguese Republic"/>
+	<FLAG CODE="qa" SHORT="Qatar" LONG="State of Qatar"/>
+	<FLAG CODE="ro" SHORT="Romania" LONG="None"/>
+	<FLAG CODE="rs" SHORT="Russia" LONG="Russian Federation"/>
+	<FLAG CODE="rw" SHORT="Rwanda" LONG="Rwandese Republic"/>
+	<FLAG CODE="sc" SHORT="Saint Kitts and Nevis" LONG="Federation of Saint Kitts and Nevis"/>
+	<FLAG CODE="st" SHORT="Saint Lucia" LONG="None"/>
+	<FLAG CODE="vc" SHORT="Saint Vincent and the Grenadines" LONG="None"/>
+	<FLAG CODE="ws" SHORT="Samoa" LONG="Independent State of Samoa"/>
+	<FLAG CODE="sm" SHORT="San Marino" LONG="Republic of San Marino"/>
+	<FLAG CODE="tp" SHORT="Sao Tome and Principe" LONG="Democratic Republic of Sao Tome and Principe"/>
+	<FLAG CODE="sa" SHORT="Saudi Arabia" LONG="Kingdom of Saudi Arabia"/>
+	<FLAG CODE="sg" SHORT="Senegal" LONG="Republic of Senegal"/>
+	<FLAG CODE="se" SHORT="Seychelles" LONG="Republic of Seychelles"/>
+	<FLAG CODE="sl" SHORT="Sierra Leone" LONG="Republic of Sierra Leone"/>
+	<FLAG CODE="sn" SHORT="Singapore" LONG="Republic of Singapore"/>
+	<FLAG CODE="lo" SHORT="Slovakia" LONG="Slovak Republic"/>
+	<FLAG CODE="si" SHORT="Slovenia" LONG="Republic of Slovenia"/>
+	<FLAG CODE="bp" SHORT="Solomon Islands" LONG="None"/>
+	<FLAG CODE="so" SHORT="Somalia" LONG="None"/>
+	<FLAG CODE="sf" SHORT="South Africa" LONG="Republic of South Africa"/>
+	<FLAG CODE="sp" SHORT="Spain" LONG="Kingdom of Spain"/>
+	<FLAG CODE="ce" SHORT="Sri Lanka" LONG="Democratic Socialist Republic of Sri Lanka"/>
+	<FLAG CODE="su" SHORT="Sudan" LONG="Republic of the Sudan"/>
+	<FLAG CODE="ns" SHORT="Suriname" LONG="Republic of Suriname"/>
+	<FLAG CODE="wz" SHORT="Swaziland" LONG="Kingdom of Swaziland"/>
+	<FLAG CODE="sw" SHORT="Sweden" LONG="Kingdom of Sweden"/>
+	<FLAG CODE="sz" SHORT="Switzerland" LONG="Swiss Confederation"/>
+	<FLAG CODE="sy" SHORT="Syria" LONG="Syrian Arab Republic"/>
+	<FLAG CODE="ti" SHORT="Tajikistan" LONG="Republic of Tajikistan"/>
+	<FLAG CODE="tz" SHORT="Tanzania" LONG="United Republic of Tanzania"/>
+	<FLAG CODE="th" SHORT="Thailand" LONG="Kingdom of Thailand"/>
+	<FLAG CODE="to" SHORT="Togo" LONG="Togolese Republic"/>
+	<FLAG CODE="tn" SHORT="Tonga" LONG="Kingdom of Tonga"/>
+	<FLAG CODE="td" SHORT="Trinidad and Tobago" LONG="Republic of Trinidad and Tobago"/>
+	<FLAG CODE="ts" SHORT="Tunisia" LONG="Republic of Tunisia"/>
+	<FLAG CODE="tu" SHORT="Turkey" LONG="Republic of Turkey"/>
+	<FLAG CODE="tx" SHORT="Turkmenistan" LONG="None"/>
+	<FLAG CODE="tv" SHORT="Tuvalu" LONG="None"/>
+	<FLAG CODE="ug" SHORT="Uganda" LONG="None"/>
+	<FLAG CODE="up" SHORT="Ukraine" LONG="None"/>
+	<FLAG CODE="ae" SHORT="United Arab Emirates" LONG="None"/>
+	<FLAG CODE="uk" SHORT="United Kingdom" LONG="United Kingdom of Great Britain and Northern Ireland"/>
+	<FLAG CODE="us" SHORT="United States" LONG="United States of America"/>
+	<FLAG CODE="uy" SHORT="Uruguay" LONG="Oriental Republic of Uruguay"/>
+	<FLAG CODE="uz" SHORT="Uzbekistan" LONG="Republic of Uzbekistan"/>
+	<FLAG CODE="nh" SHORT="Vanuatu" LONG="Republic of Vanuatu"/>
+	<FLAG CODE="vt" SHORT="Vatican City" LONG="State of the Vatican City"/>
+	<FLAG CODE="ve" SHORT="Venezuela" LONG="Bolivarian Republic of Venezuela"/>
+	<FLAG CODE="vm" SHORT="Vietnam" LONG="Socialist Republic of Vietnam"/>
+	<FLAG CODE="ym" SHORT="Yemen" LONG="Republic of Yemen"/>
+	<FLAG CODE="yi" SHORT="Serbia and Montenegro" LONG="None"/>
+	<FLAG CODE="za" SHORT="Zambia" LONG="Republic of Zambia"/>
+	<FLAG CODE="zi" SHORT="Zimbabwe" LONG="Republic of Zimbabwe"/>
+	<FLAG CODE="tw" SHORT="Taiwan" LONG="None"/>
+</FLAGS>
